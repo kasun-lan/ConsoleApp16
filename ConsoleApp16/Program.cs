@@ -12,6 +12,7 @@ namespace ConsoleApp16
         {
             int _1 = 0;
             int _2 = 0;
+            int _3 = 0;
         }
     }
 }
