@@ -11,6 +11,7 @@ namespace ConsoleApp16
         static void Main(string[] args)
         {
             int _1 = 0;
+            int _2 = 0;
         }
     }
 }
